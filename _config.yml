@@ -11,14 +11,14 @@ subtitle: 前半生寒窗苦读，后半生阅尽繁华。
 name: cherryfoxmeng 
 email: cherryfoxmeng@outlook.com
 description: 本站是 cherryfoxmeng的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+keywords: cherrfoxmeng,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: cherryfoxmeng/cherryfoxmeng.github.io
 github_url: https://github.com/cherryfoxmeng
 url: https://www.cherryfoxmeng.top
-enforce_ssl: cherryfoxmeng.com
+enforce_ssl: cherryfoxmeng.top
 
 ## Gem
 plugins:
@@ -58,32 +58,32 @@ menus:
 
   -
     href: /zsxq.html
-    label: 星球
+    label: 记得
     target: _self
 
   -
     href: /gitchat.html
-    label: Chat
+    label: 每天
     target: _self
 
   -
     href: http://gk.link/a/103Gb
-    label: 极客
+    label: 学习
     target: _blank
 
   -
     href: /life.html
-    label: 故事
+    label: 进步
     target: _self
 
   -
     href: /arch.html
-    label: 架构
+    label: 哦
     target: _self
 
   -
     href: /link.html
-    label: 友链
+    label: 加油
     target: _self
 
 
@@ -97,7 +97,7 @@ navs:
 
   -
     href: /spring-boot.html
-    label: Spring Boot
+    label:前端
     target: _self
     subnav:
 
@@ -111,23 +111,23 @@ navs:
 
   -
     href: /spring-cloud.html
-    label: Spring Cloud
+    label: 后端
     target: _self
 
   -
     
     href: http://www.justdojava.com
-    label: Java
+    label: 资源
     target: _blank
 
   -
     href: /archives.html
-    label: Archives
+    label:闲聊
     target: _self
 
   -
     href: /about.html
-    label: About
+    label: 关于我
     target: _self
 
 
